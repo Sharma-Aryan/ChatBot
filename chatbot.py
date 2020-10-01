@@ -46,7 +46,7 @@ def get_words(text):
     return Counter(wordsList).items()
  
  
-B = 'Hello!'
+B = 'Hello, May you also doing good!'
 while True:
     # output bot's message
     print('B: ' + B)
